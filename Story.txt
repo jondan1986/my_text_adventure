@@ -1,0 +1,36 @@
+Storyline for Text Adventure
+
+Player wakes up with ammesia not knowing why. 
+Player finds a sign early on that says: "This way for answers ->"
+Player starts to uncover evidence that he must have crash landed on this island by plane
+But as player starts down the quest he finds inconsistencies in the places he visits.
+Parts of the game world are digitally "torn",
+leaving strange pieces of code with AAP written all over.
+After completing npc's (Norbert Percival Carter) redundant, kill/return-with-item quests, 
+player is lost in what to do.
+Frustrated and confused, Player begins to reassemble the pieces of the crashed 
+plane trying to escape by air.
+Player manages to repair and fly the plane but when he flys too far from the island, 
+he passes through an invisible wall and into a spherical digital bubble with coding written on all
+the walls around him. He sees lines of comment code that say: 
+"collect dna from keyboard, 
+reconstruct virtual image of user, 
+project user into My Text Adventure
+Boss him/her around and have fun, 
+make them do ridiculous quest tasks,
+watch them die, and find a new victim, I mean player,
+because I am the Anonymous Amateur Programmer!"
+Player decides he needs to free his copied self from the
+trap of the game. The plane flys back through the other side of the bubble,
+back into the game world.
+he realizes he just loops around the other side of the island....
+Flying around player sees the landing strip and lands. There is now a small building
+next to the strip that leads player down underground where inside are some booby trapped areas.
+Next player encounters a puzzle, and next he finds a terminal room, with
+instructions on how to operate. He finds he is able to communicate with the AAP,
+who tells the player there is no escape since he cannot exist in the "real world"
+since he is only a collection of 0s and 1s in memory.
+The AAP comes to see the error of his ways apologizes for the player's plight
+and decides to give Player a decision:
+he can either get super powers in the game and live forever or let the AAP terminate
+the player so he can rest in peace.

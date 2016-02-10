@@ -1,0 +1,9 @@
+TODO:
+
+2. Populate Gameworlduse 
+3. Make NPC Class
+4. Create Functionally: Talk
+5. Make Quest Class
+6. Create functionally: Use x With y (in progress)
+7. Incorporate Save/Auto-Save Function
+8. Create Event Class modifies the game somehow
